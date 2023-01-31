@@ -4,3 +4,6 @@
 
 ## 01
 - Creating a Simple Boot Sector
+
+## 02
+- Creating a Boot Sector to print text
