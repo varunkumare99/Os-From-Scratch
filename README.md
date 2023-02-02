@@ -7,3 +7,6 @@
 
 ## 02
 - Creating a Boot Sector to print text
+
+## 03
+- How Computer memory is organized
