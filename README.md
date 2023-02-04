@@ -10,3 +10,6 @@
 
 ## 03
 - How Computer memory is organized
+
+## 04
+- Learn how to manipulate the stack
