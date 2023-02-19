@@ -16,3 +16,6 @@
 
 ## 05
 - Learn how to code basic stuff(loop, functions) in assembly
+
+## 06
+- Learn how to address memory with 16-bit real mode segmentation
